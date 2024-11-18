@@ -63,7 +63,7 @@ export const Posts = () => {
             <View style={styles.commentSection}>
                 <Image 
                     style={styles.user}
-                    source={require('../../assets/person/person1.jpg')} 
+                    source={require('../../assets/person/user.jpg')} 
                 />
                 <Text style={styles.italicText}>Adicione um comentário</Text>
             </View>

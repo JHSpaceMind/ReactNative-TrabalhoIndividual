@@ -8,8 +8,7 @@ O propósito deste projeto é praticar e melhorar nossas habilidades de desenvol
 
 ## 📎 Comparação
 ![WhatsApp Image 2024-11-18 at 01 28 28](https://github.com/user-attachments/assets/7eab9774-f0e5-46e3-af14-3a8c357f717d)
-
- -- 
+--
  Esta foi a referencia usada
  --
 ![WhatsApp Image 2024-11-18 at 04 01 16](https://github.com/user-attachments/assets/75336654-08ce-4a0c-bb32-093a8aa7b598)

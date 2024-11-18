@@ -1,4 +1,4 @@
-import { Text, View, StyleSheet, Image } from "react-native";
+import { View, StyleSheet, Image } from "react-native";
 import Entypo from '@expo/vector-icons/Entypo';
 import AntDesign from '@expo/vector-icons/AntDesign';
 
@@ -42,6 +42,7 @@ const styles = StyleSheet.create({
         bottom: 0,
         width: '100%',
         paddingVertical: 10,
+        paddingHorizontal: 16, 
         backgroundColor: '#fff', 
         borderTopWidth: 1,
         borderTopColor: '#ddd',
@@ -53,8 +54,8 @@ const styles = StyleSheet.create({
     },
     user: {
         borderRadius: 30,
-        height: 28,
-        width: 28,
+        height: 30,
+        width: 30,
         marginHorizontal: 8,
     },
 });

@@ -34,7 +34,10 @@ const styles = StyleSheet.create({
     container: {
         flexDirection: 'row',
         alignItems: 'center',
-        justifyContent: 'flex-start',
+        justifyContent: 'space-between',
+        marginHorizontal:'auto',
+        marginTop: 23,
+        width:'97%',
        
     },
     TextLog: {

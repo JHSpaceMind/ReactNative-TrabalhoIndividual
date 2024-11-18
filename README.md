@@ -6,18 +6,18 @@ Este projeto tem como objetivo criar um clone visual de uma página específica 
 
 O propósito deste projeto é praticar e melhorar nossas habilidades de desenvolvimento frontend, copiando o design visual de uma página de aplicativo existente. Isso envolve o uso de TypeScript, React Native e outras tecnologias relacionadas para garantir que o layout, estilo e interatividade correspondam ao original.
 
-## Tecnologias Utilizadas
+## 📎 Comparação
+![WhatsApp Image 2024-11-18 at 01 28 28](https://github.com/user-attachments/assets/7eab9774-f0e5-46e3-af14-3a8c357f717d)
+ Esta foi a referencia usada
+![WhatsApp Image 2024-11-18 at 04 01 16](https://github.com/user-attachments/assets/75336654-08ce-4a0c-bb32-093a8aa7b598)
+ E esta e como ficou no meu celular(não fiz com imagens iguais ou nomes iguais)
 
-- **TypeScript**: Fornece definições de tipo estático, ajudando a capturar erros precocemente e melhorar a qualidade do código.
-- **React Native**: Permite construir aplicativos móveis usando React.
-- **Expo**: Um framework e plataforma para aplicativos React universais, ajudando no processo de desenvolvimento e implantação.
-
-## Funcionalidades
-
-- **Layout Preciso**: O layout da página do aplicativo é replicado para corresponder ao design original.
-- **Design Responsivo**: Assegura que o clone funcione bem em diferentes tamanhos e orientações de dispositivos.
-- **Elementos Interativos**: Botões, entradas e outros elementos interativos são funcionais e estilizados de acordo.
-- **Estilo Consistente**: Usa folhas de estilo e princípios de design consistentes para corresponder à aparência e sensação da página original do app.
+## ⚙️ Tecnologias Utilizadas
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 ## Instalação e Configuração
 
@@ -40,16 +40,3 @@ O propósito deste projeto é praticar e melhorar nossas habilidades de desenvol
     ```sh
     npx expo start
     ```
-
-## Estrutura do Projeto
-
-```plaintext
-.
-├── assets          # Imagens e outros recursos estáticos
-├── components      # Componentes reutilizáveis usados no app
-├── screens         # Componentes de tela representando diferentes páginas do app
-├── App.tsx         # Ponto de entrada do aplicativo
-├── app.json        # Arquivo de configuração do Expo
-├── tsconfig.json   # Arquivo de configuração do TypeScript
-├── package.json    # Dependências e scripts do projeto
-└── README.md       # Documentação do projeto
